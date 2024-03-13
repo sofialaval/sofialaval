@@ -1,4 +1,5 @@
 ### Hi there, my name is Sofia Laval 👋
+### About Me
 Welcome! I am a recent masters student specialized in data mining, visualization, and predictive modeling. I'm passionate about all things data, statistics and providing data-driven solutions. 
 
 In my free time, I love to sew, go on a hike, run, or do yoga! I also love animals 😀
