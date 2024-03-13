@@ -5,6 +5,9 @@ Welcome to my page! I earned both my master's degree in Analytics ('23) and bach
 ### Hobbies
 I love to sew, cook, bake, workout, and spend time with my cat, Mochi 🐈 
 
+### Personal Projects 
+Kaggle: 
+  - [Prediction of Obesity Risk] (Kaggle_Competition-Prediction_of_Obesity_Risk) 
 
 - 📫 How to reach me: sofialaval@gmail.com
 <!--
