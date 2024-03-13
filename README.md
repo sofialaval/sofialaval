@@ -12,6 +12,7 @@ Kaggle:
 
 ### Projects from Master's Program
 Kaggle: 
+- [Austin Animal Shelter Outcomes](https://github.com/sofialaval/Austin_Animal_Center?tab=readme-ov-file)
 
 
 📫 How to reach me: sofialaval@gmail.com
