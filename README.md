@@ -9,7 +9,8 @@ I love to sew, cook, bake, workout, and spend time with my cat, Mochi 🐈
 Kaggle: 
   - [Prediction of Obesity Risk](https://github.com/sofialaval/Kaggle_Competition-Prediction_of_Obesity_Risk)
 
-- 📫 How to reach me: sofialaval@gmail.com
+
+📫 How to reach me: sofialaval@gmail.com
 <!--
 **sofialaval/sofialaval** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
