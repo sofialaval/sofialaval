@@ -10,6 +10,9 @@ Check out my projects I do for fun!
 Kaggle: 
   - [Prediction of Obesity Risk](https://github.com/sofialaval/Kaggle_Competition-Prediction_of_Obesity_Risk)
 
+### Projects from Master's Program
+Kaggle: 
+ - 
 
 📫 How to reach me: sofialaval@gmail.com
 <!--
