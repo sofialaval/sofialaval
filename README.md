@@ -7,7 +7,7 @@ I love to sew, cook, bake, workout, and spend time with my cat, Mochi 🐈
 
 ### Personal Projects 
 Kaggle: 
-  - [Prediction of Obesity Risk] (Kaggle_Competition-Prediction_of_Obesity_Risk) 
+  - [Prediction of Obesity Risk] (https://github.com/sofialaval/Kaggle_Competition-Prediction_of_Obesity_Risk)
 
 - 📫 How to reach me: sofialaval@gmail.com
 <!--
