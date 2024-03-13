@@ -3,7 +3,10 @@
 Welcome to my page! I earned both my master's degree in Analytics ('23) and bachelor's degree in Industrial Engineering ('21) from Georgia Tech, Go Jackets! 🐝 💛 I specialized in data mining, visualization, and predictive modeling. I'm passionate about all things data, statistics and providing data-driven solutions. 
 
 ### Hobbies
-I love to sew, cook, workout, and spend time with my cat, Mochi 🐈‍⬛
+I love to sew, cook, bake, workout, and spend time with my cat, Mochi 🐈 
+
+
+- 📫 How to reach me: sofialaval@gmail.com
 <!--
 **sofialaval/sofialaval** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
