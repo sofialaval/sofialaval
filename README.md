@@ -10,9 +10,9 @@ Check out my projects I do for fun!
 Kaggle: 
 - [Prediction of Obesity Risk](https://github.com/sofialaval/Kaggle_Competition-Prediction_of_Obesity_Risk)
 
-### Projects from Master's Program
-Kaggle: 
+### Projects from Master's Program 
 - [Austin Animal Center Shelter Outcomes](https://github.com/sofialaval/Austin_Animal_Center?tab=readme-ov-file)
+- [Recommendation Engine for Sustainability Certifications](https://github.com/sofialaval/Recommendation-System)
 
 
 📫 How to reach me: sofialaval@gmail.com
